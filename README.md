@@ -1,14 +1,12 @@
 
-## Hi there 👋
-
 ## 👋 Hi, I'm Augusto 
 
-**`Currently pursuing a degree in Computer Engineering`**
+**`If you want to see my work at the Federal University of Uberlândia, check out [my other profile](https://github.com/AugustoSoaresPorto)`**
 
 I'm a student with strong interest in coding, Software Development, Machine Learning and Robotics, currently diving into Cloud Architecting.
+
 If you want to see my work at the Federal University of Uberlândia, check out [my other profile](https://github.com/AugustoSoaresPorto).
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://github.com/AugustoSoaresPorto)
 
 ### Languages and Tools
 
