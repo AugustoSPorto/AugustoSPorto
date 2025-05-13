@@ -9,7 +9,7 @@ If you want to see my progress at the Federal University of Uberlândia, check o
 
 This profile is dedicated exclusively to my personal and professional projects.
 
-### 🛠️ Tools
+### 🛠️ Languages Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" />
