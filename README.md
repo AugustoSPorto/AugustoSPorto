@@ -1,15 +1,15 @@
 
-## Hi, I'm Augusto 
+## 👋 Hi, I'm Augusto 
 
 **`Currently pursuing a degree in Computer Engineering`**
 
-I'm a student with strong interest in coding, Software Development, Machine Learning and Robotics, currently diving into Cloud Architecting.
+I'm a student with a strong interest in coding, software development, machine learning, and robotics. I'm currently diving into cloud architecture.
 
 If you want to see my progress at the Federal University of Uberlândia, check out [my other profile](https://github.com/AugustoSoaresPorto).
 
-This profile is destined only for my work and personal projects.
+This profile is dedicated exclusively to my personal and professional projects.
 
-### Tools
+### 🛠️ Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" />
