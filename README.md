@@ -1,12 +1,13 @@
 
 ## 👋 Hi, I'm Augusto 
 
-**`If you want to see my work at the Federal University of Uberlândia, check out [my other profile](https://github.com/AugustoSoaresPorto)`**
+**`Currently pursuing a degree in Computer Engineering`**
 
 I'm a student with strong interest in coding, Software Development, Machine Learning and Robotics, currently diving into Cloud Architecting.
 
-If you want to see my work at the Federal University of Uberlândia, check out [my other profile](https://github.com/AugustoSoaresPorto).
+If you want to see my progress at the Federal University of Uberlândia, check out [my other profile](https://github.com/AugustoSoaresPorto).
 
+This profile is destined only for my work and personal projects.
 
 ### Languages and Tools
 
