@@ -11,6 +11,16 @@ This profile is dedicated exclusively to my personal and professional projects.
 
 ### 🛠️ Tools, Languages and Databases
 
+<h1>  </h1>
+
+<p align="left">
+<a href="https://github.com/AugustoSPorto">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoSPorto&layout=compact&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" width="400"/>
+</a>
+</p>
+
+<h1>  </h1>
+
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" />
@@ -23,14 +33,3 @@ This profile is dedicated exclusively to my personal and professional projects.
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="MatLab" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matlab/matlab-original.svg" />
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rust/rust-original.svg" />
-
-###
-<h1></h1>
-
-<p align="left">
-<a href="https://github.com/AugustoSPorto">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoSPorto&layout=compact&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" width="400"/>
-</a>
-</p>
-
-
