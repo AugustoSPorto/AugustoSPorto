@@ -24,7 +24,7 @@ This profile is dedicated exclusively to my personal and professional projects.
 <img align="left" alt="MatLab" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matlab/matlab-original.svg" />
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rust/rust-original.svg" />
 
-##
+<br />
 
 <p align="left">
 <a href="https://github.com/AugustoSPorto">
