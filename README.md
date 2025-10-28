@@ -7,7 +7,7 @@ I'm a student with a strong interest in coding, software development, machine le
 
 If you want to see my progress at the Federal University of Uberlândia, check out [my other profile](https://github.com/AugustoSoaresPorto).
 
-This profile is dedicated exclusively to my personal and professional projects.
+This profile is mainly dedicated to my personal and professional projects.
 
 ---
 
