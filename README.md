@@ -9,6 +9,8 @@ If you want to see my progress at the Federal University of Uberlândia, check o
 
 This profile is dedicated exclusively to my personal and professional projects.
 
+---
+
 ### 🛠️ Tools, Languages and Databases
 
 <h1>  </h1>
