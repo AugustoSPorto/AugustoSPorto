@@ -13,7 +13,6 @@ This profile is mainly dedicated to my personal and professional projects.
 
 ### 🛠️ Tools, Languages and Databases
 
-<h1>  </h1>
 
 <p align="left">
 <a href="https://github.com/AugustoSPorto">
@@ -21,4 +20,3 @@ This profile is mainly dedicated to my personal and professional projects.
 </a>
 </p>
 
-<h1>  </h1>
