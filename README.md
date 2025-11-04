@@ -14,9 +14,13 @@ This profile is mainly dedicated to my personal and professional projects.
 ### 🛠️ Tools, Languages and Databases
 
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/AugustoSPorto">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoSPorto&layout=compact&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&cache_seconds=3600" width="400"/>
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoSPorto&layout=compact&langs_count=8&hide_border=false&count_private=true&show_icons=true&theme=tokyonight&border_radius=15&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_progress=false" 
+      alt="Linguagens mais usadas" 
+      width="480"
+    />
   </a>
 </p>
 
